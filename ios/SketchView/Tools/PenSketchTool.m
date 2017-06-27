@@ -20,7 +20,7 @@
     
     paint = [[Paint alloc] init];
     
-    [self setToolColor:[UIColor blackColor]];
+    [self setToolColor:[UIColor redColor]];
     [self setToolThickness:5];
     
     [self.path setLineCapStyle:kCGLineCapRound];
